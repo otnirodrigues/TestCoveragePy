@@ -1,3 +1,4 @@
+
 def triangle_type(a, b, c):
     if a + b <= c or a + c <= b or b + c <= a:
         return 'Not a triangle'
